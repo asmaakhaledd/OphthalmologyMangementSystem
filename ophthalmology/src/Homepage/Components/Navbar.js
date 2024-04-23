@@ -7,8 +7,8 @@ import logo from './eyes_legs_hands_freak_emoji_icon_149309.ico'
 
 export default function NavBar(){
     return(
-    <div className="row mt-5 justify-content-center">
-        <div className="col-9">
+    <div className="row mt-5 justify-content-center ">
+        <div className="col-9 ">
             <nav class={`navbar navbar-light bg-light ${classes.Nav}`}>
                 <div class="container-fluid">
                     <a class="navbar-brand" href="#">
